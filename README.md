@@ -1,6 +1,6 @@
 # Proyecto Final de la asignatura Introducción a deep learning - UdeA
 
-Este proyecto cosiste en redes neuronales convolusionales para la detección de tumores cerebrales.    
+Este proyecto consiste en el entrenamiento de redes neuronales convolusionales para la detección de tumores cerebrales.    
 
 Entrega-01 (Carpeta donde se encuentra informe de la entrega 1)  
 Entrega-02 (Carpeta donde se encuentra la entrega 2)  
